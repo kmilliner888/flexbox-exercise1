@@ -3,7 +3,7 @@
     justify-content: space-around;
     flex-wrap: wrap;
     width: 100%;
-    height: 100%;
+    height: 800px;
 }
 
 .item1 {
@@ -12,7 +12,7 @@
     align-items: center;
     background-color: #ff0066;
     width: 100%;
-    height: 100px;
+    height: auto;
 }
 
 .item2 {
@@ -20,8 +20,8 @@
     justify-content: center;
     align-items: center;
     background-color: #ff6600;
-    width: 700px;
-    height: 100px;
+    width: 100%;
+    height: auto;
 }
 
 .item3 {
@@ -29,8 +29,8 @@
     justify-content: center;
     align-items: center;
     background-color: #ffff00;
-    width: 300px;
-    height: 100px;
+    width: 100%;
+    height: auto;
 }
 
 .item4 {
@@ -38,8 +38,8 @@
     justify-content: center;
     align-items: center;
     background-color: #0066ff;
-    width: 300px;
-    height: 100px;
+    width: 100%;
+    height: auto;
 }
 
 .item5 {
@@ -47,16 +47,15 @@
     justify-content: center;
     align-items: center;
     background-color: #33cc33;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: auto;
 }
 
 .item6 {
     display: flex;
     justify-content: center;
     align-items: center;
-    
     background-color: #9933ff;
     width: 100%;
-    height: 100px;
+    height: auto;
 }
